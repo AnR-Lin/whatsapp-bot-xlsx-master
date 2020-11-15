@@ -1,0 +1,19 @@
+{
+  "name": "whatsapp-bot-xlsx",
+  "version": "0.1.0",
+  "description": "whatsapp bot with Excel Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "whatsapp-bot-xlsx"
+  ],
+  "author": "AnR_Lin",
+  "license": "MIT",
+  "dependencies": {
+    "@open-wa/wa-automate": "^3.0.16",
+    "xlsx": "^0.16.8"
+  }
+}
